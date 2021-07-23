@@ -20,7 +20,6 @@ typings/
 docs/
 debug*
 *.txt
-*.js
 *.d.ts
 *.js.map
 *.pid
